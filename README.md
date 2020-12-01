@@ -1,5 +1,4 @@
-![Travis CI Build Status](https://api.travis-ci.org/ripple/gatewayd.svg?branch=master) 
-[![Coverage Status](https://coveralls.io/repos/ripple/gatewayd/badge.png?branch=master)](https://coveralls.io/r/ripple/gatewayd?branch=develop)
+[![Travis CI Build Status](https://travis-ci.org/xdv/gatewayd.svg?branch=develop)](https://travis-ci.org/xdv/gatewayd)
 
 # Gatewayd #
 
