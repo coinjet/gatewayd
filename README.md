@@ -1,6 +1,6 @@
 [![Travis CI Build Status](https://travis-ci.org/xdv/gatewayd.svg?branch=develop)](https://travis-ci.org/xdv/gatewayd)
 
-# Gatewayd #
+# Pathwayd #
 
 Gatewayd (pronounced "gateway-dee"), provides a framework you can extend to build a gateway on the Ripple Network. The system includes a core database that manages accounting for deposits and withdrawals of assets, linking the network with your holdings in the outside world. Gatewayd provides a standard interface for issuing any currency on the Ripple network and exchange, with the goal of completely abstracting interaction with Ripple.
 
